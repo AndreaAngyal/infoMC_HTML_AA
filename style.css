@@ -17,7 +17,7 @@ html {
 }
 
 body {
-    background-image: url(Pictures/background.jpg);
+    background-image: url(pictures/background.jpg);
 	background-position: center center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
